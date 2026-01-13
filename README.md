@@ -23,6 +23,5 @@
     </td>
   </table>
 
-  
   ### AURVYN&emsp;&ensp;LV 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;HP 🟩 20 / 20&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 </div>
