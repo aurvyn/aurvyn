@@ -19,7 +19,7 @@
   </table>
   <table>
     <td width=575 align="left" valign="top">
-      <pre>* But nobody came.<br><br><br><br><br></pre>
+      <pre>⚹ But nobody came.<br><br><br><br><br></pre>
     </td>
   </table>
 
