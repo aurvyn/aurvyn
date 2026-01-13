@@ -22,5 +22,5 @@
       <pre>* But nobody came.<br><br><br><br><br></pre>
     </td>
   </table>
-  AURVYN &emsp;&emsp; LV 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; HP 🟩 20 / 20 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  AURVYN &emsp;&emsp;&emsp; LV 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; HP 🟩 20 / 20 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 </div>
