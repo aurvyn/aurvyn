@@ -8,6 +8,7 @@
       <td width=100></td>
       <td width=100></td>
     </tr>
+    <tr></tr>
     <tr>
       <td width=100 height=120></td>
       <td width=100></td>
