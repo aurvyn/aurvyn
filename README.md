@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**aurvyn/aurvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table>
+    <tr>
+      <td width=100 height=120></td>
+      <td width=100></td>
+      <td width=100></td>
+      <td width=100></td>
+      <td width=100></td>
+      <td width=100></td>
+    </tr>
+    <tr>
+      <td width=100 height=120></td>
+      <td width=100></td>
+      <td width=100></td>
+      <td width=100></td>
+      <td width=100></td>
+      <td width=100></td>
+    </tr>
+  </table>
+  <table>
+    <td width=560 align="left" valign="top">
+      <pre>* But nobody came.<br><br><br><br><br></pre>
+    </td>
+  </table>
+  AURVYN &emsp;&emsp; LV 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; HP 🟩 20 / 20 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+</div>
