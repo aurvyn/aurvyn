@@ -18,11 +18,11 @@
     </tr>
   </table>
   <table>
-    <td width=560 align="left" valign="top">
+    <td width=575 align="left" valign="top">
       <pre>* But nobody came.<br><br><br><br><br></pre>
     </td>
   </table>
 
   
-  ### AURVYN &emsp;&emsp; LV 1 &emsp;&emsp;&emsp;&emsp;&emsp; HP 🟩 20 / 20 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  ### AURVYN &emsp; LV 1 &emsp;&emsp;&emsp;&emsp;&emsp; HP 🟩 20 / 20 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 </div>
