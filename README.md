@@ -18,7 +18,7 @@
     </tr>
   </table>
   <table>
-    <td width=575 align="left" valign="top">
+    <td width=575 align="left">
       <pre>⚹ But nobody came.<br><br><br><br><br></pre>
     </td>
   </table>
