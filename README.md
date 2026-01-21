@@ -24,6 +24,6 @@
     </td>
   </table>
 
-  ### AURVYN&emsp;&ensp;LV 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;HP 🟩 20 / 20&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+  ### AURVYN&emsp;&ensp;LV 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;HP 🟩 20 / 20&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<hr>
   ![Top Languages](./profile/top-langs.svg)
 </div>
