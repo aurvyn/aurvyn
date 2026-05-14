@@ -116,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="145.02"
+          width="145"
           height="8"
           fill="#d0b68c"
         />
@@ -124,7 +124,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="145.02"
+          x="145"
           y="0"
           width="44.86"
           height="8"
@@ -134,9 +134,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="189.88"
+          x="189.86"
           y="0"
-          width="35.43"
+          width="35.42"
           height="8"
           fill="#f1e05a"
         />
@@ -144,7 +144,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="225.31"
+          x="225.28000000000003"
           y="0"
           width="18.3"
           height="8"
@@ -154,9 +154,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.61"
+          x="233.58000000000004"
           y="0"
-          width="16.18"
+          width="16.21"
           height="8"
           fill="#dea584"
         />
@@ -164,7 +164,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.79000000000002"
+          x="239.79000000000005"
           y="0"
           width="13.06"
           height="8"
@@ -174,7 +174,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.85000000000002"
+          x="242.85000000000005"
           y="0"
           width="12.620000000000001"
           height="8"
@@ -184,7 +184,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.47000000000003"
+          x="245.47000000000006"
           y="0"
           width="11.370000000000001"
           height="8"
@@ -194,7 +194,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.84000000000003"
+          x="246.84000000000006"
           y="0"
           width="11.33"
           height="8"
@@ -204,7 +204,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.17000000000004"
+          x="248.17000000000007"
           y="0"
           width="10.77"
           height="8"
@@ -214,7 +214,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.94000000000005"
+          x="248.94000000000008"
           y="0"
           width="10.63"
           height="8"
@@ -224,7 +224,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.57000000000005"
+          x="249.57000000000008"
           y="0"
           width="10.24"
           height="8"
@@ -234,7 +234,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.81000000000006"
+          x="249.8100000000001"
           y="0"
           width="10.07"
           height="8"
@@ -244,7 +244,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.88000000000005"
+          x="249.88000000000008"
           y="0"
           width="10.04"
           height="8"
@@ -254,7 +254,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.92000000000004"
+          x="249.92000000000007"
           y="0"
           width="10.03"
           height="8"
@@ -264,7 +264,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.95000000000005"
+          x="249.95000000000007"
           y="0"
           width="10.03"
           height="8"
@@ -305,7 +305,7 @@
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 82.1 KB
+        Rust 82.5 KB
       </text>
     </g>
   </g><g transform="translate(0, 125)">
