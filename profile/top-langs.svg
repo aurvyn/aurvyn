@@ -298,7 +298,7 @@
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 118.4 KB
+        Rust 118.3 KB
       </text>
     </g>
   </g><g transform="translate(0, 100)">
